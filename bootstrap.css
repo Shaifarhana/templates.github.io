@@ -1,0 +1,20 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/grapes-strawberries-pineapple-kiwi-apricot-banana-whole-pineapple_23-2147968680.jpg?size=626&ext=jpg&uid=R85184967&ga=GA1.2.1151225387.1666879640&semt=sph");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+.layoutcard{
+    background-color:skyblue;
+    height: 150px;padding: 15px;
+    border-top-left-radius:15px ;
+    border-top-right-radius:15px ;
+}
+.heading{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.paraline{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+} 
